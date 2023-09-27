@@ -1,0 +1,13 @@
+/*
+	para mawala ang scrollbar. Sa firefox lng dili mu gana
+*/
+#nav-tags::-webkit-scrollbar {
+    display: none;
+}
+
+/*
+	nag add lng ko kay bootstrap kutob lng mt-5
+*/
+.mt-6 {
+	margin-top: 3.5rem !important
+}
